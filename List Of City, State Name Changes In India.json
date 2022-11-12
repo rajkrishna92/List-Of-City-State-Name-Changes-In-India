@@ -1,0 +1,419 @@
+{
+    "city": {
+        "Abdul Kalam Island": {
+            "PastName": [
+                "Wheeler Island"
+            ],
+            "Year": "2015"
+        },
+        "Abhimanyupur": {
+            "PastName": [
+                "Amin"
+            ],
+            "Year": "2019"
+        },
+        "Ahmedabad": {
+            "PastName": [
+                "Karnavati"
+            ],
+            "Year": "1411"
+        },
+        "Alappuzha": {
+            "PastName": [
+                "Alleppey"
+            ],
+            "Year": "1990"
+        },
+        "Amravati": {
+            "PastName": [
+                "Indravati ",
+                " Umravti"
+            ],
+            "Year": "1097"
+        },
+        "Atal Nagar": {
+            "PastName": [
+                "New Raipur"
+            ],
+            "Year": "2018"
+        },
+        "Ayodhya": {
+            "PastName": [
+                "Saket"
+            ],
+            "Year": "1969"
+        },
+        "Ballari": {
+            "PastName": [
+                "Bellary"
+            ],
+            "Year": "2014"
+        },
+        "Belagavi": {
+            "PastName": [
+                "Belgaum"
+            ],
+            "Year": "2014"
+        },
+        "Bengaluru": {
+            "PastName": [
+                "Bangalore"
+            ],
+            "Year": "2006"
+        },
+        "Chennai": {
+            "PastName": [
+                "Madras"
+            ],
+            "Year": "1996"
+        },
+        "Chikkamagaluru": {
+            "PastName": [
+                "Chikmagalur"
+            ],
+            "Year": "2014"
+        },
+        "Chirayinkeezhu": {
+            "PastName": [
+                "Chirayinkil"
+            ],
+            "Year": "2012"
+        },
+        "Delhi": {
+            "PastName": [
+                "Qila Rai Pithora ",
+                " Siri ",
+                " Tughluqabad ",
+                " Jahanpanah",
+                " Kotla Firoz Shah ",
+                " Purana Qila ",
+                " Indraprastha ",
+                " Shahjahanabad"
+            ],
+            "Year": "1648"
+        },
+        "Gurugram": {
+            "PastName": [
+                "Gurgaon"
+            ],
+            "Year": "2016"
+        },
+        "Guwahati": {
+            "PastName": [
+                "Gauhati"
+            ],
+            "Year": "1983"
+        },
+        "Hosapete": {
+            "PastName": [
+                "Hospet"
+            ],
+            "Year": "2014"
+        },
+        "Hubballi": {
+            "PastName": [
+                "Hubli"
+            ],
+            "Year": "2014"
+        },
+        "Jabalpur": {
+            "PastName": [
+                "Jubbulpore"
+            ],
+            "Year": "1947"
+        },
+        "Jaipur": {
+            "PastName": [
+                "Jeypore"
+            ],
+            "Year": "1727"
+        },
+        "Jajmau": {
+            "PastName": [
+                "Jajesmow"
+            ],
+            "Year": "1948"
+        },
+        "Kadapa": {
+            "PastName": [
+                "Cuddapah"
+            ],
+            "Year": "2005"
+        },
+        "Kalburgi": {
+            "PastName": [
+                "Gulbarga"
+            ],
+            "Year": "2014"
+        },
+        "Kannur": {
+            "PastName": [
+                "Cannanore"
+            ],
+            "Year": "1957"
+        },
+        "Kanpur": {
+            "PastName": [
+                "Kanhiyapur ",
+                " Cawnpore"
+            ],
+            "Year": "1948"
+        },
+        "Kesavadasapuram": {
+            "PastName": [
+                "Kattachakonam"
+            ],
+            "Year": "1949"
+        },
+        "Kochi": {
+            "PastName": [
+                "Cochin"
+            ],
+            "Year": "1996"
+        },
+        "Kolkata": {
+            "PastName": [
+                "Fort William ",
+                " Calcutta"
+            ],
+            "Year": "2001"
+        },
+        "Kollam": {
+            "PastName": [
+                "Quilon"
+            ],
+            "Year": "1949"
+        },
+        "Kozhikode": {
+            "PastName": [
+                "Calicut"
+            ],
+            "Year": "~"
+        },
+        "Latur": {
+            "PastName": [
+                "Ratnapur"
+            ],
+            "Year": "1905"
+        },
+        "Lucknow": {
+            "PastName": [
+                "Lakshmanpuri",
+                " Lakhanpur",
+                " Lakhnau"
+            ],
+            "Year": "1528"
+        },
+        "Mangaluru": {
+            "PastName": [
+                "Mangalore"
+            ],
+            "Year": "2014"
+        },
+        "Mapusa": {
+            "PastName": [
+                "Mapu\u00e7a"
+            ],
+            "Year": "1946"
+        },
+        "Mumbai": {
+            "PastName": [
+                "Mumba ",
+                " Boa Baia ",
+                " Bombay"
+            ],
+            "Year": "1995"
+        },
+        "Mysuru": {
+            "PastName": [
+                "Mysore"
+            ],
+            "Year": "2014"
+        },
+        "Navi Mumbai": {
+            "PastName": [
+                "New Bombay"
+            ],
+            "Year": "1995"
+        },
+        "Odisha": {
+            "PastName": [
+                "Orissa"
+            ],
+            "Year": "2011"
+        },
+        "Palakkad": {
+            "PastName": [
+                "Palghat"
+            ],
+            "Year": "1866"
+        },
+        "Panaji": {
+            "PastName": [
+                "Panjim"
+            ],
+            "Year": "1961"
+        },
+        "Patna": {
+            "PastName": [
+                "Pataliputra"
+            ],
+            "Year": "490 BCE"
+        },
+        "Prayagraj": {
+            "PastName": [
+                "Allahabad"
+            ],
+            "Year": "2018"
+        },
+        "Puducherry": {
+            "PastName": [
+                "Pondicherry"
+            ],
+            "Year": "2006"
+        },
+        "Pune": {
+            "PastName": [
+                "Poona"
+            ],
+            "Year": "1978"
+        },
+        "Rajamahendravaram": {
+            "PastName": [
+                "Rajahmundry"
+            ],
+            "Year": "2015"
+        },
+        "Saraswati Nagar": {
+            "PastName": [
+                "Mustafabad"
+            ],
+            "Year": "2016"
+        },
+        "Shivamogga": {
+            "PastName": [
+                "Shimoga"
+            ],
+            "Year": "2014"
+        },
+        "Thanjavur": {
+            "PastName": [
+                "Tanjore"
+            ],
+            "Year": "1950"
+        },
+        "Thiruvananthapuram": {
+            "PastName": [
+                "Trivandrum"
+            ],
+            "Year": "1991"
+        },
+        "Thrissur": {
+            "PastName": [
+                "Thrishivaperur",
+                " Trichur"
+            ],
+            "Year": "1949"
+        },
+        "Tiruchirappalli": {
+            "PastName": [
+                "Thirusirappalli",
+                " Trichinopoly",
+                " Trichy"
+            ],
+            "Year": "1971"
+        },
+        "Tumakuru": {
+            "PastName": [
+                "Tumkur"
+            ],
+            "Year": "2014"
+        },
+        "Udhagamandalam": {
+            "PastName": [
+                "Ootacamund"
+            ],
+            "Year": "1972"
+        },
+        "Vadodara": {
+            "PastName": [
+                "Baroda"
+            ],
+            "Year": "1974"
+        },
+        "Varanasi": {
+            "PastName": [
+                "Banaras"
+            ],
+            "Year": "1922"
+        },
+        "Vijayapura": {
+            "PastName": [
+                "Bijapur"
+            ],
+            "Year": "1956"
+        },
+        "Visakhapatnam": {
+            "PastName": [
+                "Vizagapatam"
+            ],
+            "Year": "1979"
+        }
+    },
+    "district": {
+        "Andhra Pradesh": {
+            "PastName": [
+                "Andhra State"
+            ],
+            "Year": "1956"
+        },
+        "Karnataka": {
+            "PastName": [
+                "Mysore State"
+            ],
+            "Year": "1973"
+        },
+        "Kerala": {
+            "PastName": [
+                "Travancore-Cochin"
+            ],
+            "Year": "1956"
+        },
+        "Madhya Pradesh": {
+            "PastName": [
+                "Madhya Bharat"
+            ],
+            "Year": "1959"
+        },
+        "Odisha": {
+            "PastName": [
+                "Orissa"
+            ],
+            "Year": "2011"
+        },
+        "Tamil Nadu": {
+            "PastName": [
+                "Madras State"
+            ],
+            "Year": "1969"
+        },
+        "Tripura": {
+            "PastName": [
+                "Tipperah"
+            ],
+            "Year": "1949"
+        },
+        "Uttar Pradesh": {
+            "PastName": [
+                "United Provinces"
+            ],
+            "Year": "1950"
+        },
+        "Uttarakhand": {
+            "PastName": [
+                "Uttaranchal"
+            ],
+            "Year": "2007"
+        }
+    }
+}
